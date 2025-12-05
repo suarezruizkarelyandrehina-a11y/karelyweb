@@ -1,0 +1,84 @@
+body{
+  background-color:darkgray;
+  color:black;
+  font-family:'Times New Roman', Times, serif;
+  padding:0;
+ }
+ header{
+  background-color:rgb(102, 102, 133);
+  color:white;
+  text-align: center;
+  padding:2rem 1rem;
+  border-bottom:4px solid #4a90e2;
+ }
+ h1{
+  margin:0;
+  font-size:2.5rem;
+ }
+h2{
+  font-size:1.2rem;
+  margin-top:0.5rem;
+  color:#010758;
+ }
+ 
+ contenido{
+  text-align:center;
+  max-width: 800px;
+  margin: 40px;
+  background-color: white;
+  padding: 30px;
+  border: radius 10px;
+  box-shadow: 0 0 10px rgba(0,0,0,0.1);
+
+ }
+
+   .menu{
+    margin-top:20px;
+   }
+   .btn{
+    background-color:lightskyblue;
+    color:black;
+    padding:10px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    margin:5px;
+    display:inline-block;
+    font-weight:bold;
+   }
+
+   .btn:hover{
+    background-color:lightskyblue;
+   }
+
+   .card{
+    background-color: white;
+    max-width:800px;
+    margin:30px auto;
+    padding:30px;
+    border-radius:10px;
+    box-shadow:0 0 10px rgba(0,0,0,0.1);
+
+   }
+
+   .caja-blanca{
+    background-color: white;
+    max-width:800px;
+    margin:40px auto;
+    padding:30px;
+    border-radius:15px;
+    box-shadow:0 0 15px rgba(0,0,0,0. 15);
+    text-align:center;
+   }
+   .caja-blanca h1{
+    color:midnightblue;
+    margin-bottom:15px;
+   }
+   .caja-blanca p{
+    font-size:18px;
+    line-height:1.6;
+   }
+   .imagen-abajo{
+    width:5px;
+    margin-top:5px;
+    border-radius:0px;
+   }
